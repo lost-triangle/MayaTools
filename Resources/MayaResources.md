@@ -102,6 +102,9 @@
 * [yasushazush Shader library](https://yasushazush.com/arnold-shader-library/)
 * [KungFuJack Rabbit 12 Shaders](https://gumroad.com/l/KFJRArnshd01)
 
+### Arnold Answers
+A Forum to discuss common Arnold Problems
+https://answers.arnoldrenderer.com/index.html
 
 # Work
 
