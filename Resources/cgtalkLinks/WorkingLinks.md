@@ -1,3 +1,6 @@
+# CGTalk Maya Tutorials
+Original Link Collection can be found [here](http://forums.cgsociety.org/showthread.php?p=8347286).
+
 # Sites
 
 
@@ -57,18 +60,6 @@
 * [http://www.menithings.com/](http://www.menithings.com/)
 
 # Unsorted
-
-
-
-
-
-
-
-
-
-
-
-
 
 * [http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html](http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html)
 * [http://www.scottsworkshop.com/](http://www.scottsworkshop.com/)
