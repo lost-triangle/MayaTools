@@ -3,6 +3,14 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 
 # Sites
 
+# General
+* [http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html](http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html)
+* [http://www.3dluvr.com/content/article/11](http://www.3dluvr.com/content/article/11)
+* [http://www.3dbuzz.com/](http://www.3dbuzz.com/)
+
+
+#References
+* [http://www.fineart.sk/](http://www.fineart.sk/)
 
 # Modelling
 * [Modelling - Fish](http://members.aon.at/bulletin/sushi/)
@@ -15,16 +23,18 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [Eye](http://www.edharriss.com/tutorials/tutorial_xsi_eye/xsi_eye_english.htm)
 
 # Video Tutorials
-* [https://www.youtube.com/watch?v=rxTwSloVULQ](https://www.youtube.com/watch?v=rxTwSloVULQ)
-* [https://www.youtube.com/watch?v=EVtj1FV5vz0](https://www.youtube.com/watch?v=EVtj1FV5vz0)
-* [https://www.youtube.com/watch?v=DRf20nE_7pk](https://www.youtube.com/watch?v=DRf20nE_7pk)
-* [https://www.youtube.com/watch?v=BJ6YpYgHcNE&index=1&list=PLzfXExqHHa8XbnsfsvVqwbbqrY9t6aMTy](https://www.youtube.com/watch?v=BJ6YpYgHcNE&index=1&list=PLzfXExqHHa8XbnsfsvVqwbbqrY9t6aMTy)
-* [https://www.youtube.com/user/MikeHermes65](https://www.youtube.com/user/MikeHermes65)
-* [https://www.youtube.com/user/mayatoolbelt](https://www.youtube.com/user/mayatoolbelt)
-* [http://www.youtube.com/embed/tElsku3aKQI](http://www.youtube.com/embed/tElsku3aKQI)
-* [http://www.youtube.com/embed/_LhQgRiZknE](http://www.youtube.com/embed/_LhQgRiZknE)
-* [http://www.youtube.com/embed/YF1sEN9B1CA](http://www.youtube.com/embed/YF1sEN9B1CA)
-* [http://www.youtube.com/embed/Zo8jmX6-fSg](http://www.youtube.com/embed/Zo8jmX6-fSg)
+
+* [Earth](https://www.youtube.com/watch?v=EVtj1FV5vz0)
+* [Fast Wireframes](https://www.youtube.com/watch?v=DRf20nE_7pk)
+* [Customize Maya](https://www.youtube.com/watch?v=BJ6YpYgHcNE&index=1&list=PLzfXExqHHa8XbnsfsvVqwbbqrY9t6aMTy)
+
+## Youtube Channels
+* [MikeHermes65](https://www.youtube.com/user/MikeHermes65)
+* [mayatoolbelt](https://www.youtube.com/user/mayatoolbelt)
+* [https://www.youtube.com/watch?v=tElsku3aKQI](https://www.youtube.com/watch?v=tElsku3aKQI)
+* [https://www.youtube.com/watch?v=_LhQgRiZknE](https://www.youtube.com/watch?v=_LhQgRiZknE)
+* [https://www.youtube.com/watch?v=YF1sEN9B1CA](https://www.youtube.com/watch?v=YF1sEN9B1CA)
+* [https://www.youtube.com/watch?v=Zo8jmX6-fSg](https://www.youtube.com/watch?v=Zo8jmX6-fSg)
 * [http://www.youtube.com/watch?v=Sj_FTXeNZM8](http://www.youtube.com/watch?v=Sj_FTXeNZM8)
 * [http://www.youtube.com/watch?v=oRzXUUNfo5M](http://www.youtube.com/watch?v=oRzXUUNfo5M)
 * [http://www.youtube.com/watch?v=CSwGiaZgSQA](http://www.youtube.com/watch?v=CSwGiaZgSQA)
@@ -54,82 +64,58 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 # Historic Maya (pre Version 2010)  
 * [http://www.worldofmaya.com/t_tutorials.html](http://www.worldofmaya.com/t_tutorials.html)
 * [http://www.maxschoenherr.de/animation/Maya/MayaPit/pitIndex.html](http://www.maxschoenherr.de/animation/Maya/MayaPit/pitIndex.html)
+* [http://www.jackals-forge.com/tutor.html](http://www.jackals-forge.com/tutor.html)
+* [http://www.anticz.com/anticz.htm](http://www.anticz.com/anticz.htm)
+* [http://www.blackorb.com/mayagiraffe3d.html](http://www.blackorb.com/mayagiraffe3d.html)
+
+## Maya 7
+* [http://www.final3.com/html/resource.htm](http://www.final3.com/html/resource.htm)
 
 # Link Dead Site Alive
 * [http://artur.bluemoon.ee/](http://artur.bluemoon.ee/)
 * [http://www.menithings.com/](http://www.menithings.com/)
+* [http://www.3dtreat.com/](http://www.3dtreat.com/)
+* [http://www.figure2productions.com/](http://www.figure2productions.com/)
+* [http://www.safakoner.com/](http://www.safakoner.com/)
 
 # Unsorted
-
-* [http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html](http://users.design.ucla.edu/~cariesta/MayaCourseNotes/html/body_index.html)
-* [http://www.scottsworkshop.com/](http://www.scottsworkshop.com/)
-* [http://www.yiqunchen.com/publications/images/article1.jpg](http://www.yiqunchen.com/publications/images/article1.jpg)
-* [http://www.jackals-forge.com/tutor.html](http://www.jackals-forge.com/tutor.html)
-* [http://www.3dtreat.com/SiteC/assets/A_TUTORIALS/CLOUDS/CloudTutorialPage/index.html](http://www.3dtreat.com/SiteC/assets/A_TUTORIALS/CLOUDS/CloudTutorialPage/index.html)
-* [http://fraghq.com/brainswell/tutorials.htm](http://fraghq.com/brainswell/tutorials.htm)
-* [http://www.gooroos.com/addframe.html?page=http://www.gooroos.com/unitConv-essay.html](http://www.gooroos.com/addframe.html?page=http://www.gooroos.com/unitConv-essay.html)
-* [http://www.3dguidemagazine.com/](http://www.3dguidemagazine.com/)
-* [http://www.alloypictures.com/HTML/ChainTutorial.htm](http://www.alloypictures.com/HTML/ChainTutorial.htm)
-* [http://www.worldofmaya.com/](http://www.worldofmaya.com/)
-* [http://www.electronicgaming.com/tutorials/](http://www.electronicgaming.com/tutorials/)
-* [http://www.zoorender.com/html/tutorials.htm](http://www.zoorender.com/html/tutorials.htm)
-* [http://www.anticz.com/anticz.htm](http://www.anticz.com/anticz.htm)
-* [http://www.ordix.com/](http://www.ordix.com/)
-* [http://www.animationartist.com/2002/10_oct/tutorials/building_workstation.htm](http://www.animationartist.com/2002/10_oct/tutorials/building_workstation.htm)
-* [http://www.worldofmaya.com/t_poly.html](http://www.worldofmaya.com/t_poly.html)
-* [http://www.3dmax.com/textures/index.cfm](http://www.3dmax.com/textures/index.cfm)
 * [http://www.onnovanbraam.com/](http://www.onnovanbraam.com/)
-* [http://www.fineart.sk/](http://www.fineart.sk/)
-* [http://oera.net/How2/Earth1.htm](http://oera.net/How2/Earth1.htm)
-* [http://www.animationartist.com/2001/02_feb/tutorials/feet_part1.html](http://www.animationartist.com/2001/02_feb/tutorials/feet_part1.html)
-* [http://www.characteranimation.com/](http://www.characteranimation.com/)
-* [http://www.3dluvr.com/content/article/11](http://www.3dluvr.com/content/article/11)
-* [http://www.blackorb.com/mayagiraffe3d.html](http://www.blackorb.com/mayagiraffe3d.html)
-* [http://www.animationartist.com/2002/01_jan/tutorials/smokin_tutorial.htm](http://www.animationartist.com/2002/01_jan/tutorials/smokin_tutorial.htm)
-* [http://www.3dbuzz.com/](http://www.3dbuzz.com/)
+
 * [http://earth.vol.com/~natzke/ear.htm](http://earth.vol.com/~natzke/ear.htm)
 * [http://www.figure2productions.com/EI_HeadTut/EI_TutIntro.html](http://www.figure2productions.com/EI_HeadTut/EI_TutIntro.html)
 * [http://www.suurland.com/](http://www.suurland.com/)
 * [http://www.joelertola.com/tutorials/brain/index.html](http://www.joelertola.com/tutorials/brain/index.html)
 * [http://mambo.ucsc.edu/psl/nsf.txt](http://mambo.ucsc.edu/psl/nsf.txt)
-* [http://www.anticz.com/heads.htm](http://www.anticz.com/heads.htm)
-* [http://www.anticz.com/handtut.htm](http://www.anticz.com/handtut.htm)
+
 * [http://www.mikefortner.com/pages/head.html](http://www.mikefortner.com/pages/head.html)
 * [http://www.halbstein.com/tutorials/deskLamp/lampPages/lampPageThree.htm](http://www.halbstein.com/tutorials/deskLamp/lampPages/lampPageThree.htm)
 * [http://www.dgp.toronto.edu/people/stam/suomi/stam/gas.html](http://www.dgp.toronto.edu/people/stam/suomi/stam/gas.html)
 * [http://fraghq.com/brainswell/tutorial1.htm](http://fraghq.com/brainswell/tutorial1.htm)
 * [http://www.suurland.com/tut_ball/tutorial_football.htm](http://www.suurland.com/tut_ball/tutorial_football.htm)
 * [http://www.3dcentral.com/tut3.html](http://www.3dcentral.com/tut3.html)
-* [http://www.yiqunchen.com/publications/images/article2.jpg](http://www.yiqunchen.com/publications/images/article2.jpg)
-* [http://www.anticz.com/eularqua.htm](http://www.anticz.com/eularqua.htm)
-* [http://www.anticz.com/animatio.htm](http://www.anticz.com/animatio.htm)
-* [http://www.anticz.com/Walks.htm](http://www.anticz.com/Walks.htm)
-* [http://www.cadmonkey.com/tut3.htm](http://www.cadmonkey.com/tut3.htm)
+
+
 * [http://www.polyextrude.com/Tutorials/CharacterModeling/smoke.html](http://www.polyextrude.com/Tutorials/CharacterModeling/smoke.html)
 * [http://www.painfulurination.com/Tutorial_Breath/maya_tutorial_breath.htm](http://www.painfulurination.com/Tutorial_Breath/maya_tutorial_breath.htm)
-* [http://www.anticz.com/3dheadpa.htm](http://www.anticz.com/3dheadpa.htm)
+
 * [http://www.renderman.org/RMR/Books/sig02.course16.pdf.gz](http://www.renderman.org/RMR/Books/sig02.course16.pdf.gz)
-* [http://www.anticz.com/puppets.htm](http://www.anticz.com/puppets.htm)
+
 * [http://www.andrew-whitehurst.net/tutorials.html](http://www.andrew-whitehurst.net/tutorials.html)
 * [http://graphics.stanford.edu/~henrik/images/global.html](http://graphics.stanford.edu/~henrik/images/global.html)
 * [http://www.ewertb.com/maya/index.html](http://www.ewertb.com/maya/index.html)
-* [http://www.anticz.com/texture.htm](http://www.anticz.com/texture.htm)
+
 * [http://www.painfulurination.com/Tutorial_Cigarette_Smoke/maya_tutorial_cig_smoke.htm](http://www.painfulurination.com/Tutorial_Cigarette_Smoke/maya_tutorial_cig_smoke.htm)
 * [http://www.kolve.com/](http://www.kolve.com/)
-* [http://www.animationartist.com/2002...workstation.](http://www.animationartist.com/2002...workstation.)
-* [http://www.anticz.com/drawing1.htm](http://www.anticz.com/drawing1.htm)
+
+
 * [http://www.halbstein.com/tutorials.htm](http://www.halbstein.com/tutorials.htm)
-* [http://www.noir.org/tutorials/Xen%2...t/treadtut.html](http://www.noir.org/tutorials/Xen%2...t/treadtut.html)
-* [http://www.animationartist.com/2001...feet_part1.html](http://www.animationartist.com/2001...feet_part1.html)
-* [http://www.gooroos.com/unitConv-essay.html](http://www.gooroos.com/unitConv-essay.html)
-* [http://www.animationartist.com/2002...in_tutorial.htm](http://www.animationartist.com/2002...in_tutorial.htm)
+* [http://www.noir.org/3dTutorials.html#Maya](http://www.noir.org/3dTutorials.html#Maya)
 
 * [http://www.phoenixtools.com/](http://www.phoenixtools.com/)
-* [http://www.newriders.com/content/im...0735712581C.](http://www.newriders.com/content/im...0735712581C.)
+
 * [http://www.blackorb.com/maya3dtutorial.html](http://www.blackorb.com/maya3dtutorial.html)
-* [http://alienbit.com/mrfmtut1.htm](http://alienbit.com/mrfmtut1.htm)
-* [http://alienbit.com/mrfmtut3.htm](http://alienbit.com/mrfmtut3.htm)
-* [http://www.halbstein.com/tutorials/...mpPageThree.htm](http://www.halbstein.com/tutorials/...mpPageThree.htm)
+
+
 * [http://www.cg-art.i12.com/tut1_1.html](http://www.cg-art.i12.com/tut1_1.html)
 * [http://www.renderman.org/RMR/Books/...course16.pdf.](http://www.renderman.org/RMR/Books/...course16.pdf.)
 * [http://www.freeweb.hu/youth/tutor/maya/caustics01.av](http://www.freeweb.hu/youth/tutor/maya/caustics01.av)
@@ -138,37 +124,33 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.percutio.com/](http://www.percutio.com/)
 * [http://www.andrew-whitehurst.net/hdri_tut.html](http://www.andrew-whitehurst.net/hdri_tut.html)
 * [http://www.silop.com/infografia/tutoriales/maya/maya5.htm](http://www.silop.com/infografia/tutoriales/maya/maya5.htm)
-* [http://www.figure2productions.com/E...I_TutIntro.html](http://www.figure2productions.com/E...I_TutIntro.html)
+
 * [http://www.3dcentral.com/tutorials.html](http://www.3dcentral.com/tutorials.html)
-* [http://formula2complex.de/](http://formula2complex.de/)
+
 * [http://www.magneticghost.com/](http://www.magneticghost.com/)
 * [http://www.texturesbytuesday.com/](http://www.texturesbytuesday.com/)
 * [http://www.cgreality.com/](http://www.cgreality.com/)
 * [http://www.screamingghost.com/](http://www.screamingghost.com/)
-* [http://www.safakoner.com/05_source/01_tutorial/02_tpsbs.htm](http://www.safakoner.com/05_source/01_tutorial/02_tpsbs.htm)
-* [http://www.safakoner.com/05_source/01_tutorial/03_cloth/cloth_in_maya.avi](http://www.safakoner.com/05_source/01_tutorial/03_cloth/cloth_in_maya.avi)
-* [http://www.safakoner.com/05_source/01_tutorial/04_pmirror/p_mirror.avi](http://www.safakoner.com/05_source/01_tutorial/04_pmirror/p_mirror.avi)
-* [http://www.safakoner.com/05_source/01_tutorial/01_rail.htm](http://www.safakoner.com/05_source/01_tutorial/01_rail.htm)
+
 * [http://www.free-webspace.biz/metoc/Maya/Marking_Menus.pdf](http://www.free-webspace.biz/metoc/Maya/Marking_Menus.pdf)
-* [http://www.final3.com/html/contextMMVideo.htm](http://www.final3.com/html/contextMMVideo.htm)
-* [http://www.final3.com/html/tutorials/sine.htm](http://www.final3.com/html/tutorials/sine.htm)
+
 * [http://www.x3dx.com/viewpage.php?page_id=4](http://www.x3dx.com/viewpage.php?page_id=4)
 * [http://www.3dfuturebits.org/index.php?name=PNphpBB2&file=viewtopic&p=1174](http://www.3dfuturebits.org/index.php?name=PNphpBB2&file=viewtopic&p=1174)
 * [http://www.jasonwelsh.com/tutorials/Convert.htm](http://www.jasonwelsh.com/tutorials/Convert.htm)
-* [http://www.final3.com/html/tutorials/drivenKeys.htm](http://www.final3.com/html/tutorials/drivenKeys.htm)
+
 * [http://kursatturkay.cjb.cc/](http://kursatturkay.cjb.cc/)
-* [http://www.talino.org/tutorials/balloon/](http://www.talino.org/tutorials/balloon/)
+
 * [http://www.oricomtech.com/projects/legs.htm](http://www.oricomtech.com/projects/legs.htm)
-* [http://www.final3.com/html/tutorials/nut.htm](http://www.final3.com/html/tutorials/nut.htm)
-* [http://www.suchyworks.com/](http://www.suchyworks.com/)
+
+
 * [http://www.tdt3d.com/](http://www.tdt3d.com/)
 * [http://maya-tutorials.awardspace.com/](http://maya-tutorials.awardspace.com/)
-* [http://www.final3.com/html/resource.htm](http://www.final3.com/html/resource.htm)
+
 * [http://www.tdt3d.be/articles.php?art=autodesk_maya_to_wf_part_1](http://www.tdt3d.be/articles.php?art=autodesk_maya_to_wf_part_1)
-* [http://www.davincicollege.ca/ver3/tutorial/iksplineSetup.html](http://www.davincicollege.ca/ver3/tutorial/iksplineSetup.html)
+
 * [http://www.tutorialized.com/tutorials/Maya/1](http://www.tutorialized.com/tutorials/Maya/1)
 * [http://www.learningmaya.com/](http://www.learningmaya.com/)
-* [http://rodri.aniguild.com/?mod=tips](http://rodri.aniguild.com/?mod=tips)
+
 * [http://www.3dlinks.com/tutorials_maya.cfm](http://www.3dlinks.com/tutorials_maya.cfm)
 * [http://www.geonak.com/](http://www.geonak.com/)
 * [http://www.speffects.com/](http://www.speffects.com/)
@@ -180,15 +162,13 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://chrisevans3d.com/tutorials.htm](http://chrisevans3d.com/tutorials.htm)
 * [http://www.g4tv.com/screensavers/features/51168/Maya_Modeling_pg2.html](http://www.g4tv.com/screensavers/features/51168/Maya_Modeling_pg2.html)
 * [http://www.thehobbitguy.com/tutorials/polymodeling/page01.htm](http://www.thehobbitguy.com/tutorials/polymodeling/page01.htm)
-* [http://download.autodesk.com/us/maya/2008help/wwhelp/wwhimpl/js/html/wwhelp.htm](http://download.autodesk.com/us/maya/2008help/wwhelp/wwhimpl/js/html/wwhelp.htm)
-* [http://www.djcrawford.us/Maya/RomanShield1.htm](http://www.djcrawford.us/Maya/RomanShield1.htm)
-* [http://www.djcrawford.us/Maya/UrbanModeling1.htm](http://www.djcrawford.us/Maya/UrbanModeling1.htm)
+
+
+
 * [http://www.learningmaya.com/23-0-modeling-tutorials.html](http://www.learningmaya.com/23-0-modeling-tutorials.html)
-* [http://rodri.aniguild.com/tuto_run/run_en.php](http://rodri.aniguild.com/tuto_run/run_en.php)
+
 * [http://worldoftutorials.freehostia.com/](http://worldoftutorials.freehostia.com/)
-* [http://www.ddmel.com//index.php?categoryid=20](http://www.ddmel.com//index.php?categoryid=20)
-* [http://www.ddmel.com//index.php?categoryid=19](http://www.ddmel.com//index.php?categoryid=19)
-* [http://www.ddmel.com//index.php?categoryid=23](http://www.ddmel.com//index.php?categoryid=23)
+
 * [http://www.cgarena.com/freestuff/tutorials/maya/basemesh/index.html](http://www.cgarena.com/freestuff/tutorials/maya/basemesh/index.html)
 * [http://www.cgarena.com/freestuff/tutorials/maya/firevideo/fire.html](http://www.cgarena.com/freestuff/tutorials/maya/firevideo/fire.html)
 * [http://www.kolve.com/home/home.htm](http://www.kolve.com/home/home.htm)
@@ -211,7 +191,7 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://allcgtutorials.com/](http://allcgtutorials.com/)
 * [http://www.mayafreaks.com/tutorials.php](http://www.mayafreaks.com/tutorials.php)
 * [http://homepage.mac.com/mikethomson...l/tutorial.html](http://homepage.mac.com/mikethomson...l/tutorial.html)
-* [http://www.yiqunchen.com/publicatio...es/article2.jpg](http://www.yiqunchen.com/publicatio...es/article2.jpg)
+
 * [http://www.polyextrude.com/Tutorial...ling/smoke.html](http://www.polyextrude.com/Tutorial...ling/smoke.html)
 * [http://nextgenhardsurface.com/viewtopic.php?f=24&t=1357](http://nextgenhardsurface.com/viewtopic.php?f=24&t=1357)
 * [http://nextgenhardsurface.com/viewtopic.php?f=24&t=1354](http://nextgenhardsurface.com/viewtopic.php?f=24&t=1354)
@@ -227,8 +207,6 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.cakewalkcg.com/tutorials/maya/modeling/143-wireframe-render-in-maya-by-software-renderer](http://www.cakewalkcg.com/tutorials/maya/modeling/143-wireframe-render-in-maya-by-software-renderer)
 * [http://www.allcgtutorials.com/2014/making-of-fantasy-mosque-by-gurmukh-bhasin/](http://www.allcgtutorials.com/2014/making-of-fantasy-mosque-by-gurmukh-bhasin/)
 * [http://www.cgarena.com/freestuff/tutorials/maya/gamecar/index.html](http://www.cgarena.com/freestuff/tutorials/maya/gamecar/index.html)
-* [http://www.%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.com/spanish](http://www.%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.com/spanish)
-* [http://www.%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.com/](http://www.%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A.com/)
 
 * [http://mr2k.3dvf.com/tutorials/max/tutorials_joan.htm](http://mr2k.3dvf.com/tutorials/max/tutorials_joan.htm)
 
@@ -244,9 +222,9 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.keithlango.com/](http://www.keithlango.com/)
 * [http://vsecorp.com/](http://vsecorp.com/)
 * [https://drive.google.com/file/d/0B3IdM_AlwHg-cnZRZnRieUk4UVk/view?usp=sharing](https://drive.google.com/file/d/0B3IdM_AlwHg-cnZRZnRieUk4UVk/view?usp=sharing)
-* [http://www.jhavna.net/scatter/](http://www.jhavna.net/scatter/)
+
 * [http://www.victoriapictures.com/dragon/pindex.html](http://www.victoriapictures.com/dragon/pindex.html)
-* [http://www.jhavna.net/main.php?page=ref_caustics](http://www.jhavna.net/main.php?page=ref_caustics)
+
 * [http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html](http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html)
 * [http://computerarts.co.uk/tutorials/type/tutorial.asp?id=23082](http://computerarts.co.uk/tutorials/type/tutorial.asp?id=23082)
 * [http://www.pixelcg.com/blog/?p=419](http://www.pixelcg.com/blog/?p=419)
@@ -288,17 +266,10 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.vterrain.org/Atmosphere/Clouds/index.html](http://www.vterrain.org/Atmosphere/Clouds/index.html)
 
 * [http://www.kniffen.ca/index.php?target=tutorials/texture/UV1.php](http://www.kniffen.ca/index.php?target=tutorials/texture/UV1.php)
-* [http://www.jhavna.net/contour](http://www.jhavna.net/contour)
-* [http://www.jhavna.net/](http://www.jhavna.net/)
+
 * [http://www.3d-palace.com/](http://www.3d-palace.com/)
 * [http://www.cc.gatech.edu/gvu/people...id.Harmon/wave/](http://www.cc.gatech.edu/gvu/people...id.Harmon/wave/)
 
-* [http://www.xsibase.com/:thumbsup:](http://www.xsibase.com/:thumbsup:)
-
-* [http://www.safakoner.com/08_tutorial/01_maya_source/cloth.avi](http://www.safakoner.com/08_tutorial/01_maya_source/cloth.avi)
-* [http://www.newriders.com/content/images/0735712581/samplechapter/0735712581C.pdf](http://www.newriders.com/content/images/0735712581/samplechapter/0735712581C.pdf)
-* [http://www.jhavna.net/tutorials/scatter_colour](http://www.jhavna.net/tutorials/scatter_colour)
-* [http://www.jhavna.net/scatter](http://www.jhavna.net/scatter)
 * [http://robthebloke.org/mel/index.html](http://robthebloke.org/mel/index.html)
 * [http://xeav.net/](http://xeav.net/)
 * [http://www.wingman.ca/tutorials/mr_spriteRig.html](http://www.wingman.ca/tutorials/mr_spriteRig.html)
@@ -367,22 +338,14 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.3dtotal.com/ffa/tutorials/maya/non_photo_realistic_shading/realistic_shading.asp](http://www.3dtotal.com/ffa/tutorials/maya/non_photo_realistic_shading/realistic_shading.asp)
 
 
-* [http://www.newriders.com/articles/article.asp?product_id=](http://www.newriders.com/articles/article.asp?product_id=)
-
 
 
 * [http://www.creativecow.net/show.php?forumid=61&page=/tutorials.html](http://www.creativecow.net/show.php?forumid=61&page=/tutorials.html)
 
-* [http://www.yiqunchen.com/publicatio...es/article1.jpg](http://www.yiqunchen.com/publicatio...es/article1.jpg)
-
 
 * [http://www.highend3d.com/maya/tutorials/general/253-1.html](http://www.highend3d.com/maya/tutorials/general/253-1.html)
-* [http://www.newriders.com/articles/a...asp?product_id={0BFF74D1-DE92-4405-9C33-3E985FF68368}](http://www.newriders.com/articles/a...asp?product_id={0BFF74D1-DE92-4405-9C33-3E985FF68368})
-* [http://www.newriders.com/articles/a...asp?product_id={61B5439B-86B6-45E8-B907-59911F79B3BE}](http://www.newriders.com/articles/a...asp?product_id={61B5439B-86B6-45E8-B907-59911F79B3BE})
-* [http://www.newriders.com/articles/a...asp?product_id={9A0A5379-17CF-48AE-897D-E56BEBDF3C6A}](http://www.newriders.com/articles/a...asp?product_id={9A0A5379-17CF-48AE-897D-E56BEBDF3C6A})
-* [http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp](http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp)
 
-* [http://www.newriders.com/articles/a...asp?product_id=DA0ABD4D-D5FF-4F52-A437-9C3B1E85DD62}](http://www.newriders.com/articles/a...asp?product_id=DA0ABD4D-D5FF-4F52-A437-9C3B1E85DD62})
+* [http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp](http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp)
 
 * [http://area.autodesk.com/](http://area.autodesk.com/)
 
@@ -391,7 +354,7 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.highend3d.com/maya/tutorials/xen/](http://www.highend3d.com/maya/tutorials/xen/)
 
 * [http://www.subvoicestudios.com/CharRig101-JakeCallery.pdf](http://www.subvoicestudios.com/CharRig101-JakeCallery.pdf)
-* [http://www.newriders.com/articles/a...asp?product_id={1E9E1524-3582-4CFA-9830-5E2AA86DE278}](http://www.newriders.com/articles/a...asp?product_id={1E9E1524-3582-4CFA-9830-5E2AA86DE278})
+
 * [http://www.digitaltutors.com/](http://www.digitaltutors.com/)
 * [http://www.highend3d.com/maya/shaders/](http://www.highend3d.com/maya/shaders/)
 * [http://unreal.epicgames.com/skeletal/UTSkelAnim.htm](http://unreal.epicgames.com/skeletal/UTSkelAnim.htm)
@@ -424,7 +387,6 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.cgtalk.com/showthread.php?t=6360&page=1&pp=15](http://www.cgtalk.com/showthread.php?t=6360&page=1&pp=15)
 * [http://www.cgtalk.com/forumdisplay.php?f=46](http://www.cgtalk.com/forumdisplay.php?f=46)
 * [http://www.cgtalk.com/showthread.php?t=6360](http://www.cgtalk.com/showthread.php?t=6360)
-* [http://www.cgtalk.com/search.php?s=...rder=descending](http://www.cgtalk.com/search.php?s=...rder=descending)
 
 
 * [http://www.cgtalk.com/showthread.php?s=&threadid=12472](http://www.cgtalk.com/showthread.php?s=&threadid=12472)
