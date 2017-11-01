@@ -12,6 +12,8 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 
 #References
 * [http://www.fineart.sk/](http://www.fineart.sk/)
+* [Anatomy](http://www.bartelby.com/107/)
+* [http://www.bartelby.com/107/279.html](http://www.bartelby.com/107/279.html)
 
 # Modelling
 * [Modelling - Fish](http://members.aon.at/bulletin/sushi/)
@@ -92,243 +94,125 @@ Original Link Collection can be found [here](http://forums.cgsociety.org/showthr
 * [http://www.onnovanbraam.com/](http://www.onnovanbraam.com/)
 * [http://www.suurland.com/](http://www.suurland.com/)
 * [http://digitalartsguild.com/](http://digitalartsguild.com/)
+* [http://www.sharecg.com/](http://www.sharecg.com/)
 
 # Unsorted
-
-
 * [http://www.suurland.com/tut_ball/tutorial_football.htm](http://www.suurland.com/tut_ball/tutorial_football.htm)
 * [http://www.3dcentral.com/tut3.html](http://www.3dcentral.com/tut3.html)
-
-
-* [http://www.polyextrude.com/Tutorials/CharacterModeling/smoke.html](http://www.polyextrude.com/Tutorials/CharacterModeling/smoke.html)
 * [http://www.painfulurination.com/Tutorial_Breath/maya_tutorial_breath.htm](http://www.painfulurination.com/Tutorial_Breath/maya_tutorial_breath.htm)
-
 * [http://www.andrew-whitehurst.net/tutorials.html](http://www.andrew-whitehurst.net/tutorials.html)
 * [http://graphics.stanford.edu/~henrik/images/global.html](http://graphics.stanford.edu/~henrik/images/global.html)
-
-
 * [http://www.painfulurination.com/Tutorial_Cigarette_Smoke/maya_tutorial_cig_smoke.htm](http://www.painfulurination.com/Tutorial_Cigarette_Smoke/maya_tutorial_cig_smoke.htm)
 * [http://www.kolve.com/](http://www.kolve.com/)
-
-
 * [http://www.halbstein.com/tutorials.htm](http://www.halbstein.com/tutorials.htm)
 * [http://www.noir.org/3dTutorials.html#Maya](http://www.noir.org/3dTutorials.html#Maya)
-
-
 * [http://www.blackorb.com/maya3dtutorial.html](http://www.blackorb.com/maya3dtutorial.html)
-
 * [http://www.andrew-whitehurst.net/hdri_tut.html](http://www.andrew-whitehurst.net/hdri_tut.html)
 * [http://www.texturesbytuesday.com/](http://www.texturesbytuesday.com/)
-
 * [http://www.screamingghost.com/](http://www.screamingghost.com/)
-
 * [http://www.oricomtech.com/projects/legs.htm](http://www.oricomtech.com/projects/legs.htm)
-
-
 * [http://www.tdt3d.com/](http://www.tdt3d.com/)
 * [http://maya-tutorials.awardspace.com/](http://maya-tutorials.awardspace.com/)
-
 * [http://www.tutorialized4.com/tutorials/Maya/1](http://www.tutorialized.com/tutorials/Maya/1)
-
-
 * [http://www.3dlinks.com/tutorials_maya.cfm](http://www.3dlinks.com/tutorials_maya.cfm)
 * [http://www.geonak.com/](http://www.geonak.com/)
 * [http://www.speffects.com/](http://www.speffects.com/)
 * [http://www.cgarena.com/freestuff/tutorials/maya/flowers/](http://www.cgarena.com/freestuff/tutorials/maya/flowers/)
 * [http://www.cgarena.com/freestuff/tutorials/maya/lowpolyHair/](http://www.cgarena.com/freestuff/tutorials/maya/lowpolyHair/)
-
 * [http://chrisevans3d.com/tutorials.htm](http://chrisevans3d.com/tutorials.htm)
 * [http://www.g4tv.com/screensavers/features/51168/Maya_Modeling_pg2.html](http://www.g4tv.com/screensavers/features/51168/Maya_Modeling_pg2.html)
 * [http://www.thehobbitguy.com/tutorials/polymodeling/page01.htm](http://www.thehobbitguy.com/tutorials/polymodeling/page01.htm)
-
-
-
 * [http://worldoftutorials.freehostia.com/](http://worldoftutorials.freehostia.com/)
-
 * [http://www.cgarena.com/freestuff/tutorials/maya/basemesh/index.html](http://www.cgarena.com/freestuff/tutorials/maya/basemesh/index.html)
 * [http://www.cgarena.com/freestuff/tutorials/maya/firevideo/fire.html](http://www.cgarena.com/freestuff/tutorials/maya/firevideo/fire.html)
 * [http://www.kolve.com/home/home.htm](http://www.kolve.com/home/home.htm)
 * [http://www.christerb.com/?page_id=8](http://www.christerb.com/?page_id=8)
 * [http://www.3dlapidary.com/HTML/Models.htm](http://www.3dlapidary.com/HTML/Models.htm)
 * [http://www.gemcad.com/](http://www.gemcad.com/)
-* [http://www.3dcafe.com/](http://www.3dcafe.com/)
 * [http://www.houseoftutorials.net/](http://www.houseoftutorials.net/)
-
 * [http://www.lugher3d.com/](http://www.lugher3d.com/)
-
 * [http://www.jozvex.com/](http://www.jozvex.com/)
 * [http://www.speffects.com/index.php?id=tutorials](http://www.speffects.com/index.php?id=tutorials)
 * [http://www.cyphermesh.com/](http://www.cyphermesh.com/)
 * [http://www.mayaedu.com.cn/dp-bbsforum-22-2.html](http://www.mayaedu.com.cn/dp-bbsforum-22-2.html)
-* [http://www.sharecg.com/v/3226/pdf/word-doc-tutorial/Character-Rigging-101](http://www.sharecg.com/v/3226/pdf/word-doc-tutorial/Character-Rigging-101)
 * [http://labs.ravenproduktion.se/](http://labs.ravenproduktion.se/)
 * [http://www.3dm3.com/tutorials/maya/meat_grinder/](http://www.3dm3.com/tutorials/maya/meat_grinder/)
 * [http://allcgtutorials.com/](http://allcgtutorials.com/)
-* [http://www.mayafreaks.com/tutorials.php](http://www.mayafreaks.com/tutorials.php)
-* [http://homepage.mac.com/mikethomson...l/tutorial.html](http://homepage.mac.com/mikethomson...l/tutorial.html)
-
-* [http://www.polyextrude.com/Tutorial...ling/smoke.html](http://www.polyextrude.com/Tutorial...ling/smoke.html)
-
-
 * [http://www.cgarena.com/freestuff/tutorials/maya/gamecar/index.html](http://www.cgarena.com/freestuff/tutorials/maya/gamecar/index.html)
-
 * [http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html](http://hyperphysics.phy-astr.gsu.edu/hbase/hframe.html)
-
-
 * [http://cgpedia.com/splitting-a-vehicle-in-maya/](http://cgpedia.com/splitting-a-vehicle-in-maya/)
 * [http://cgpedia.com/tower-destruction-in-maya-max/](http://cgpedia.com/tower-destruction-in-maya-max/)
-
-
-
-
-
 * [http://vsecorp.com/](http://vsecorp.com/)
 * [https://drive.google.com/file/d/0B3IdM_AlwHg-cnZRZnRieUk4UVk/view?usp=sharing](https://drive.google.com/file/d/0B3IdM_AlwHg-cnZRZnRieUk4UVk/view?usp=sharing)
-
-* [http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html](http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html)
+* [http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html]
+(http://www.maxschoenherr.de/animation/Maya/Maya4Pit/pitIndex.html)
 * [http://computerarts.co.uk/tutorials/type/tutorial.asp?id=23082](http://computerarts.co.uk/tutorials/type/tutorial.asp?id=23082)
 * [http://www.pixelcg.com/blog/?p=419](http://www.pixelcg.com/blog/?p=419)
-
 * [http://dirk-bialluch.mayaring.com/tips/html/tips.shtml](http://dirk-bialluch.mayaring.com/tips/html/tips.shtml)
-* [http://www.bartelby.com/107/279.html](http://www.bartelby.com/107/279.html)
 * [http://www.3dmaxfarsi.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-maya/](http://www.3dmaxfarsi.ir/tag/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d8%a2%d9%85%d9%88%d8%b2%d8%b4-maya/)
 * [http://cgterminal.com/](http://cgterminal.com/)
-* [http://www.bartelby.com/107/](http://www.bartelby.com/107/)
-
 * [http://www.cs.wpi.edu/~matt/courses/cs563/talks/face_anim/ekman.html](http://www.cs.wpi.edu/~matt/courses/cs563/talks/face_anim/ekman.html)
 * [http://www.creativecow.net/](http://www.creativecow.net/)
-
 * [http://www.3dchopshop.com/tutorials/frankenstein.htm](http://www.3dchopshop.com/tutorials/frankenstein.htm)
 * [http://www.bbc.co.uk/science/humanbody/humanface/](http://www.bbc.co.uk/science/humanbody/humanface/)
 * [http://www.deathfall.com/tutorials.php?op=showcontent&id=65](http://www.deathfall.com/tutorials.php?op=showcontent&id=65)
-
-* [http://www.gignews.com/kappmarch02.htm](http://www.gignews.com/kappmarch02.htm)
-* [http://guellomarketing.com/](http://guellomarketing.com/)
-* [http://mr2k.3dvf.com/tutorials/](http://mr2k.3dvf.com/tutorials/)
 * [http://www.molecularmovies.com/learning/](http://www.molecularmovies.com/learning/)
-* [http://www.3dtreat.com/SiteC/assets...Page/index.html](http://www.3dtreat.com/SiteC/assets...Page/index.html)
 * [http://www.graphiland.fr/tutori_t/tutorial.asp?code=44&CS=Yes&InsertQuery=1&InsertQuery=1](http://www.graphiland.fr/tutori_t/tutorial.asp?code=44&CS=Yes&InsertQuery=1&InsertQuery=1)
 * [http://www.debevec.org/](http://www.debevec.org/)
 * [http://www.computerarts.co.uk/tutorials/type/tutorial.asp?id=28561](http://www.computerarts.co.uk/tutorials/type/tutorial.asp?id=28561)
 * [http://www.animation-collaboration.com/xsistation/tutorials/cat.htm](http://www.animation-collaboration.com/xsistation/tutorials/cat.htm)
 * [http://www.gignews.com/kappblackcock.htm](http://www.gignews.com/kappblackcock.htm)
-
-* [http://www.motiondesign.biz/](http://www.motiondesign.biz/)
-
 * [http://www.vterrain.org/Atmosphere/Clouds/index.html](http://www.vterrain.org/Atmosphere/Clouds/index.html)
-
-* [http://www.kniffen.ca/index.php?target=tutorials/texture/UV1.php](http://www.kniffen.ca/index.php?target=tutorials/texture/UV1.php)
-
 * [http://www.3d-palace.com/](http://www.3d-palace.com/)
 * [http://www.cc.gatech.edu/gvu/people...id.Harmon/wave/](http://www.cc.gatech.edu/gvu/people...id.Harmon/wave/)
-
 * [http://robthebloke.org/mel/index.html](http://robthebloke.org/mel/index.html)
-* [http://xeav.net/](http://xeav.net/)
-* [http://www.wingman.ca/tutorials/mr_spriteRig.html](http://www.wingman.ca/tutorials/mr_spriteRig.html)
 * [http://www.alexcg.com/](http://www.alexcg.com/)
 * [http://www.planetquake.com/sin2q3/tutpart1.htm](http://www.planetquake.com/sin2q3/tutpart1.htm)
 * [http://www.planetquake.com/sin2q3/tutpart2.htm](http://www.planetquake.com/sin2q3/tutpart2.htm)
-
-
-
-* [http://www.deathfall.com/index.php](http://www.deathfall.com/index.php)
-
-* [http://computer-training-software.com/maya-basics.htm](http://computer-training-software.com/maya-basics.htm)
-* [http://www.houseoftutorials.com/](http://www.houseoftutorials.com/)
-
-
 * [http://garynoden.wordpress.com/](http://garynoden.wordpress.com/)
-
-
 * [http://www.highend3d.com/maya/tutorials/](http://www.highend3d.com/maya/tutorials/)
 * [http://www.menithings.com/How/Tilt/Hair/Tilt_Hair_01.html](http://www.menithings.com/How/Tilt/Hair/Tilt_Hair_01.html)
 * [http://www.fuse-design.org/blog/tutorials-cg/maya-fix-broken-render-settings-window](http://www.fuse-design.org/blog/tutorials-cg/maya-fix-broken-render-settings-window)
-
-
 * [http://www.fabiosiino.com/#!How-to-customize-your-Autodesk-Mayas-ViewCube/c1uid/EA9206B2-13E0-4451-A217-36B1EF65150E](http://www.fabiosiino.com/#!How-to-customize-your-Autodesk-Mayas-ViewCube/c1uid/EA9206B2-13E0-4451-A217-36B1EF65150E)
-
 * [http://www.fuse-design.org/blog/tutorials-cg/maya-remove-namespace-after-import](http://www.fuse-design.org/blog/tutorials-cg/maya-remove-namespace-after-import)
 * [http://www.fuse-design.org/blog/tutorials-cg/hdr-creation](http://www.fuse-design.org/blog/tutorials-cg/hdr-creation)
 
 * [http://www.machinemeditation.com/](http://www.machinemeditation.com/)
-
-* [http://www.deviantart.com/browse/t/tutorials/maya/](http://www.deviantart.com/browse/t/tutorials/maya/)
-
-
 * [http://www.infinitee-designs.com/Maya-Links.htm](http://www.infinitee-designs.com/Maya-Links.htm)
 * [http://www.therenderfarm.com/MAYA/t.../animation.html](http://www.therenderfarm.com/MAYA/t.../animation.html)
 * [http://www.therenderfarm.com/MAYA/tutorials/animation.html](http://www.therenderfarm.com/MAYA/tutorials/animation.html)
-
 * [http://www.tutorialfind.com/tutorials/3dsoftware/maya/](http://www.tutorialfind.com/tutorials/3dsoftware/maya/)
-* [http://www.deathfall.com/tutorials....owcontent&id=65](http://www.deathfall.com/tutorials....owcontent&id=65)
 * [http://www.menithings.com/How/Tilt/...lt_Hair_01.html](http://www.menithings.com/How/Tilt/...lt_Hair_01.html)
-* [http://www.softimage.com/Education/...5/BEER/beer.pdf](http://www.softimage.com/Education/...5/BEER/beer.pdf)
-
-
-
-
-
-* [http://www.softimage.com/Education/XSI/SelfPacedLearning/tutorials/webTutorials/XSI_1_5/BEER/beer.pdf](http://www.softimage.com/Education/XSI/SelfPacedLearning/tutorials/webTutorials/XSI_1_5/BEER/beer.pdf)
-
-
-
 * [http://www.cardanfx.net/](http://www.cardanfx.net/)
 * [http://www.thegnomonworkshop.com/tutorials.html](http://www.thegnomonworkshop.com/tutorials.html)
-
-* [http://www.purefizz.com/maya/articles/shading_1/](http://www.purefizz.com/maya/articles/shading_1/)
 * [http://www.stereopixol.com/](http://www.stereopixol.com/)
 * [http://www.3dtotal.com/ffa/tutorials/maya/non_photo_realistic_shading/realistic_shading.asp](http://www.3dtotal.com/ffa/tutorials/maya/non_photo_realistic_shading/realistic_shading.asp)
-
-
-
-
 * [http://www.creativecow.net/show.php?forumid=61&page=/tutorials.html](http://www.creativecow.net/show.php?forumid=61&page=/tutorials.html)
-
-
 * [http://www.highend3d.com/maya/tutorials/general/253-1.html](http://www.highend3d.com/maya/tutorials/general/253-1.html)
-
 * [http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp](http://www.3dtotal.com/ffa/tutorials/tutorialsalias.asp)
-
 * [http://area.autodesk.com/](http://area.autodesk.com/)
-
 * [http://www.thegnomonworkshop.com/tutorials/tutorials.html](http://www.thegnomonworkshop.com/tutorials/tutorials.html)
 * [http://www.web3dservice.com/maya_tutorials.html](http://www.web3dservice.com/maya_tutorials.html)
 * [http://www.highend3d.com/maya/tutorials/xen/](http://www.highend3d.com/maya/tutorials/xen/)
-
 * [http://www.subvoicestudios.com/CharRig101-JakeCallery.pdf](http://www.subvoicestudios.com/CharRig101-JakeCallery.pdf)
-
-* [http://www.digitaltutors.com/](http://www.digitaltutors.com/)
 * [http://www.highend3d.com/maya/shaders/](http://www.highend3d.com/maya/shaders/)
-* [http://unreal.epicgames.com/skeletal/UTSkelAnim.htm](http://unreal.epicgames.com/skeletal/UTSkelAnim.htm)
-
 * [http://www.creativecrash.com/maya/tutorials/rendering-lighting/c/mental-ray-approximation-editor](http://www.creativecrash.com/maya/tutorials/rendering-lighting/c/mental-ray-approximation-editor)
 * [http://i.materialise.com/blog/entry/3d-printing-with-maya-step-by-step-tutorial-on-how-to-turn-your-3d-model-into-a-3d-print](http://i.materialise.com/blog/entry/3d-printing-with-maya-step-by-step-tutorial-on-how-to-turn-your-3d-model-into-a-3d-print)
 * [http://www.amazon.com/Autodesk-Hyper-Realistic-Creature-Creation-Official/dp/1897177496/ref=sr_1_3?ie=UTF8&s=books&qid=1259386120&sr=8-3](http://www.amazon.com/Autodesk-Hyper-Realistic-Creature-Creation-Official/dp/1897177496/ref=sr_1_3?ie=UTF8&s=books&qid=1259386120&sr=8-3)
 * [http://www.creativecrash.com/maya/downloads/scripts-plugins/animation/c/srb-procedural-chain](http://www.creativecrash.com/maya/downloads/scripts-plugins/animation/c/srb-procedural-chain)
-
 * [https://docs.google.com/document/d/1pA_PkUQIEG24Nuf7Z0pna4qkCi4kTpYLSomzK2wyQuU/edit?usp=sharing](https://docs.google.com/document/d/1pA_PkUQIEG24Nuf7Z0pna4qkCi4kTpYLSomzK2wyQuU/edit?usp=sharing)
-
 * [http://www.amazon.com/Mastering-Autodesk-Maya-2012-Palamar/dp/0470919779/ref=sr_1_3?s=books&ie=UTF8&qid=1377830802&sr=1-3](http://www.amazon.com/Mastering-Autodesk-Maya-2012-Palamar/dp/0470919779/ref=sr_1_3?s=books&ie=UTF8&qid=1377830802&sr=1-3)
 * [http://www.3dsense.net/pastarticles.htm](http://www.3dsense.net/pastarticles.htm)
-* [http://www.digitaltutors.com/digital_tutors/tutorials.php?cat=maya](http://www.digitaltutors.com/digital_tutors/tutorials.php?cat=maya)
 * [http://www.highend3d.com/maya/tutorials/modeling/polygon/Subdivision-Modeling-of-a-Human-189.html](http://www.highend3d.com/maya/tutorials/modeling/polygon/Subdivision-Modeling-of-a-Human-189.html)
 * [http://www.highend3d.com/maya/tutorials/modeling/nurbs/Modeling-Using-Connect-Poly-Shape-157.html](http://www.highend3d.com/maya/tutorials/modeling/nurbs/Modeling-Using-Connect-Poly-Shape-157.html)
-
 * [http://cgterminal.com/2011/03/27/cutting-holes-into-meshes-tutorial/](http://cgterminal.com/2011/03/27/cutting-holes-into-meshes-tutorial/)
-
-
-* [http://www.cgtalk.com/search.php?s=&action=showresults&searchid=131364&sortby=lastpost&sortorder=descending](http://www.cgtalk.com/search.php?s=&action=showresults&searchid=131364&sortby=lastpost&sortorder=descending)
-* [http://www.cgtalk.com/showthread.php?p=1351828](http://www.cgtalk.com/showthread.php?p=1351828)
-* [http://www.cgtalk.com/showthread.php?s=&threadid=117063](http://www.cgtalk.com/showthread.php?s=&threadid=117063)
-
+* [Maya Paint FX](http://www.cgtalk.com/showthread.php?s=&threadid=117063)
 * [http://www.cgtalk.com/showthread.php?s=&threadid=135922&perpage=15&pagenumber=1](http://www.cgtalk.com/showthread.php?s=&threadid=135922&perpage=15&pagenumber=1)
 * [http://www.cgtalk.com/showthread.php?p=1424937](http://www.cgtalk.com/showthread.php?p=1424937)
 * [http://www.cgtalk.com/showthread.php?t=6360&page=1&pp=15](http://www.cgtalk.com/showthread.php?t=6360&page=1&pp=15)
 * [http://www.cgtalk.com/forumdisplay.php?f=46](http://www.cgtalk.com/forumdisplay.php?f=46)
 * [http://www.cgtalk.com/showthread.php?t=6360](http://www.cgtalk.com/showthread.php?t=6360)
-
-
 * [http://www.cgtalk.com/showthread.php?s=&threadid=12472](http://www.cgtalk.com/showthread.php?s=&threadid=12472)
 * [http://www.cgtalk.com/showthread.php?s=&threadid=103342&perpage=15&pagenumber=1](http://www.cgtalk.com/showthread.php?s=&threadid=103342&perpage=15&pagenumber=1)
-* [http://www.cgtalk.com/showthread.php?s=&threadid=76991](http://www.cgtalk.com/showthread.php?s=&threadid=76991)
+* [Making a chain that's tethered on two ends](http://www.cgtalk.com/showthread.php?s=&threadid=76991)
 * [Photoreal Texturing for Dummies](http://www.cgtalk.com/showthread.php?s=&threadid=7681)
