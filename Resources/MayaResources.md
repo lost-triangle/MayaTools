@@ -94,6 +94,7 @@
 # Lighting
 * [Industrial HDRs](https://gumroad.com/l/HDRindustrial)
 * [hdrihaven](https://hdrihaven.com/hdris/category/?o=date_published)
+* [hdrVault](https://www.hdrvault.com/)
 
 ## Paid
 * [Texture Pilot](http://texturepilot.com/)
