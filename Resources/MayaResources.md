@@ -91,7 +91,7 @@
 
 # Lighting
 * [Industrial HDRs](https://gumroad.com/l/HDRindustrial)
-* [Greg Zaal Collection](https://hdrihaven.com/hdris.php?thumb=all&sort=date&search=all&page=2&npp=100)
+* [hdrihaven](https://hdrihaven.com/hdris/category/?o=date_published)
 
 ## Paid
 * [Texture Pilot](http://texturepilot.com/)
