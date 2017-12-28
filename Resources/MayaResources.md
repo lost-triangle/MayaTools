@@ -78,6 +78,8 @@
 
 ### Textures
 
+### Substance Designer
+* [Materials Christmas Calendar 2017](https://www.artstation.com/artwork/vW45A)
 
 ## Free
 
